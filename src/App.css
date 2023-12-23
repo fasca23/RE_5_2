@@ -1,0 +1,94 @@
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css");
+
+h2 {
+  font-size: 1rem;
+}
+
+.top-block {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 10px;
+}
+
+h2 a {
+  margin-right: 5px;
+}
+
+.news {
+  width: 70%;
+}
+
+.news h2 {
+  display: inline;
+  margin-right: 5px;
+}
+
+.date {
+  font-size: 0.8rem;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.list-icon {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: #bbbbbb;
+  margin-right: 5px;
+}
+
+.teaser img {
+  width: 120px;
+  height: 70px;
+}
+
+.columns {
+  display: flex;
+}
+
+.search {
+  margin-bottom: 10px;
+}
+
+.search a {
+  margin-right: 10px;
+}
+
+.search .input-text {
+  width: 60%;
+}
+
+.banner {
+  height: 60px;
+  width: 60%;
+  border: 1px solid;
+}
+
+.weather {
+  margin-bottom: 10px;
+}
+
+.temperature {
+  display: flex;
+  align-items: center;
+}
+
+.weather-future {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.text {
+  color: #808080;
+}
+
+.tv h2 {
+  display: inline;
+}
